@@ -2,7 +2,7 @@
 
 ![Shyam Kumar Chittaluru]([https://url_to_your_profile_picture](https://www.linkedin.com/in/shyamkumarchittaluru/))
 
-Hello, I'm Shyam Kumar Chittaluru, a dedicated and motivated data analyst with over 2 years of experience in driving process efficiency and data integrity. I have a strong background in leading teams for data mining and data warehousing solutions, and I am passionate about transforming data into actionable insights.
+Hello, I'm Shyam Kumar Chittaluru,I am a highly skilled and adaptable data professional with a proven track record in data engineering and analysis. My experience includes optimizing ETL pipelines, implementing statistical methodologies for data insights, and developing dashboards for streamlined reporting. Currently pursuing a Master's in Analytics, I am committed to staying at the forefront of industry trends and leveraging my diverse skill set to drive data-driven decision-making and innovation.
 
 ## About Me
 
