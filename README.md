@@ -4,6 +4,17 @@
 
 Hello, I'm Shyam Kumar Chittaluru,I am a highly skilled and adaptable data professional with a proven track record in data engineering and analysis. My experience includes optimizing ETL pipelines, implementing statistical methodologies for data insights, and developing dashboards for streamlined reporting. Currently pursuing a Master's in Analytics, I am committed to staying at the forefront of industry trends and leveraging my diverse skill set to drive data-driven decision-making and innovation.
 
+## Education 
+Masters in Data Analytics At Northeastern University Expected Graduation April 2024 
+
+Bachelors in Computer Science & Engineering Graduated in 2019 
+
+## Professional Experience 
+
+Junior Data Engineer At Abhudaya Hr Business Solution From July 2020 - july 2022 
+
+Data Analyst At Abhudaya Hr Business solution From June 2019 - July 2020 
+
 ## About Me
 
 - **Background**: I am currently pursuing a Master's in Data Analytics at Northeastern University, with a GPA of 3.8. I hold a Bachelor's degree in Computer Science Engineering from Jawaharlal Nehru Technological 
