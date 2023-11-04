@@ -1,6 +1,6 @@
 # Bio
 
-![Shyam Kumar Chittaluru]([https://url_to_your_profile_picture](https://www.linkedin.com/in/shyamkumarchittaluru/))
+![Shyam Kumar Ch]([https://url_to_your_profile_picture](https://www.linkedin.com/in/shyamkumarchittaluru/))
 
 Hello, I'm Shyam Kumar Chittaluru,I am a highly skilled and adaptable data professional with a proven track record in data engineering and analysis. My experience includes optimizing ETL pipelines, implementing statistical methodologies for data insights, and developing dashboards for streamlined reporting. Currently pursuing a Master's in Analytics, I am committed to staying at the forefront of industry trends and leveraging my diverse skill set to drive data-driven decision-making and innovation.
 
